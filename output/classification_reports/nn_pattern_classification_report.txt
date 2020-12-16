@@ -1,0 +1,14 @@
+	Pattern NN Classification Report
+
+              precision    recall  f1-score   support
+
+           1       0.40      0.61      0.48       499
+           2       0.00      0.00      0.00       601
+           3       0.26      0.19      0.22      1002
+           4       0.35      0.35      0.35      2326
+           5       0.61      0.72      0.66      3602
+
+    accuracy                           0.48      8030
+   macro avg       0.32      0.37      0.34      8030
+weighted avg       0.43      0.48      0.45      8030
+
